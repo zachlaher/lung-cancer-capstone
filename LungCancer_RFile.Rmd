@@ -9,7 +9,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ```{r}
-lc <- read.csv("C:/Users/conma/Downloads/lung cancer dataset.csv", header=TRUE)
+lc <- read.csv("lung cancer dataset.csv", header=TRUE)
 attach(lc)
 head(lc)
 ```
