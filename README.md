@@ -1,6 +1,6 @@
 # Lung Cancer Risk Prediction
 
-**Data Science Capstone — Merrimack College, 2024**
+**Data Science Capstone**
 
 Binary classification project predicting lung cancer presence from 16 patient-reported 
 risk factors and symptoms. Built end-to-end in both Python and R.
